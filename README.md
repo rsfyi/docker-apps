@@ -1,4 +1,4 @@
-#### create an image
+#### create an image and trigger build
     1. docker build -t nodeapp .
 
 #### running the instance of the docker image i.e containers
